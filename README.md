@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/peter-ho-mshk-demo/0891728b-1cfb-407a-91b3-bc5c9e3f8aef/8d9e4a27-dce2-4764-9f62-8f1e545b05b8/_apis/work/boardbadge/a94afa4a-a601-4829-a043-96fa0a9d6c88)](https://dev.azure.com/peter-ho-mshk-demo/0891728b-1cfb-407a-91b3-bc5c9e3f8aef/_boards/board/t/8d9e4a27-dce2-4764-9f62-8f1e545b05b8/Microsoft.RequirementCategory)
 [![Build Status](https://dev.azure.com/peter-ho-mshk-demo/Demo%20-%20GitHub%20Integration/_apis/build/status/manfho.ContosoAir?branchName=master)](https://dev.azure.com/peter-ho-mshk-demo/Demo%20-%20GitHub%20Integration/_build/latest?definitionId=9&branchName=master)
 
 # Microsoft.Github CI Demo
